@@ -24,7 +24,7 @@ gem "minima"
 # end
 #
 # gem 'github-pages'
-# gem "html-proofer"
+gem "html-proofer"
 # gem "jekyll-paginate" 
 # gem "jekyll-gist" 
 # gem "pygments.rb"
