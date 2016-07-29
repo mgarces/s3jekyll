@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hello S3"
+date:   2016-07-29 12:11:02 +0200
+categories: jekyll s3 aws
+---
+
+Hello world! S3 deployment is working!
